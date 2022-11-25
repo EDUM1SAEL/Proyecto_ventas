@@ -3,7 +3,7 @@
 El repositorio contiene un proyecto de ventas el cual  permite que los usuarios ingresen:<br>
 1. Su nombre <br>
 2. Su año de nacimiento<br>
-3.Ventas del semestre <br>
+3. Ventas del semestre <br>
 y calcula su premio ,medalla y bonos.
 Según una base.
 ## Tecnologias Utilizadas <br>
